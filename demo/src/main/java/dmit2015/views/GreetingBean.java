@@ -1,4 +1,4 @@
-package dmit2015.view;
+package dmit2015.views;
 
 import jakarta.enterprise.context.RequestScoped;
 import jakarta.inject.Named;
